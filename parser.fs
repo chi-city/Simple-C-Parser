@@ -10,14 +10,9 @@
 // legal, otherwise the string "syntax_error: ..." is
 // returned denoting an invalid simple C program.
 //
-// New author:
+// Author:
 //  Zaid Awaidah
 //  UIC, CS341, Fall 2022
-//
-// Original author:
-//   Prof. Joe Hummel
-//   U. of Illinois, Chicago
-//   CS 341, Spring 2022
 //
 
 //##################################################################
